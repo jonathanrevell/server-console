@@ -1,2 +1,2 @@
 # server-console
-A server with more advanced controls and options
+A console with more advanced controls and options
