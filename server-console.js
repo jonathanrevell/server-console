@@ -1,3 +1,7 @@
+// server-console.js
+// Created by Jonathan Revell H.
+// @jonathanRevell
+
 //ServerConsoleLog priority
 //(Low Priority) 1 --- 3 (Normal) --- 5 (Critical Priority)
 //Any error with priority of 4 or greater is considered "critical"
